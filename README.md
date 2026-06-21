@@ -7,7 +7,7 @@ This repository contains my solutions to Data Structures & Algorithms problems f
 * Strengthen problem-solving skills
 * Improve algorithmic thinking
 * Track progress in competitive programming
-* Prepare for coding interviews and contests
+
 
 ## Languages
 
