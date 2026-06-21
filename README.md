@@ -1,4 +1,4 @@
-# Competitive Programming & DSA Solutions
+# Competitive Programming Solutions
 
 This repository contains my solutions to Data Structures & Algorithms problems from platforms such as Codeforces, CodeChef, AtCoder, and others.
 
